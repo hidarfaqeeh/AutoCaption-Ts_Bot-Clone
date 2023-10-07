@@ -59,26 +59,26 @@ class Translation(object):
 
       MARKDOWN_TEXT = """
 
-🔰 <u>𝐀𝐛𝐨𝐮𝐭 𝐌𝐚𝐫𝐤𝐝𝐨𝐰𝐧</u>
+🔰 <u>حول الماركداون</u>
 
 
-👉 <b>Bold text</b>
+👉 <b>نص غامق </b>
       
 📌 <code>**text**</code> 
 
-👉 <b>Italic text</b>
+👉 <b>نص مائل </b>
 
 📌 <code>__text__</code> 
 
-👉 <b>Code text</b>
+👉 <b>نص قابل للنسخ عند الضغط عليه</b>
 
 📌 <code>`text`</code>   
 
-👉 <b>Hyperlink text</b>
+👉 <b>رابط مخفي</b>
 
-📌 <code>[hyperlink_text](https://t.me/Ts_bots)</code> 
+📌 <code>[نص الرابط](https://t.me/zawamlAnsarAllah)</code> 
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+<b><a href="https://t.me/zawamlAnsarAllah">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
 
 """
 
@@ -86,15 +86,15 @@ class Translation(object):
 
       STATUS_DATA = """
 
-🔰 <u>𝐁𝐎𝐓 𝐒𝐓𝐀𝐓𝐔𝐒</u>
+🔰 <u>حالة البوت</u>
 
-🖌️ <b>Current Caption :</b>
+🖌️ <b>الحقوق الحالية :</b>
 
 {}
 
 📐 <b>Current Position :</b> {}
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+<b><a href="https://t.me/AKM100YE">©️ مطور البوت </a></b>
 
 """
 
