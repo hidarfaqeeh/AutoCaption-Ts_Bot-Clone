@@ -3,61 +3,57 @@ class Translation(object):
       
       START_TEXT = """
 
-😃 Hai {},
+😃 مرحبا  {},
 
-I am a simple auto caption bot
-I can automatically add pre-setted caption to the files in channels
+أنا بوت حقوق القناة 
+انا عملي أقوم بوضع رابط او نص  أخر اي منشور ينزل بالقناة  بشكل نلقائي
 
-I am currently working for a channel if you want to use me, Use my source code and Deploy me
+اضغط مساعدة لمعرفة طريقة استخدام البوت 
 
-⚜️ Maintained By 👉 @{}
+⚜️ مطور البوت  👉 @{}
 """    
 
       HELP_TEXT = """
 
-<u>💡 𝐇𝐞𝐥𝐩</u> 
+<u>💡 مساعدة</u> 
 
 
-👉 Add me as a Admin in your channel with edit permission
+👉 اولا ضيف البوت مشرف في قناتك مع الصلاحيات 
 
-👉 Add your caption using <code>/set_caption</code> command
+👉 قم باضافة حقوق قناتك من خلال الامر التالي   <code>/set_caption</code> 
 
-<i>( Only Admin )</i>
+<i>( فقط المشرفين  )</i>
    
-<i>(Support Markdown)</i>
+<i>(يدعم الماركداون)</i>
 
-👉 Forward your files in your channel and I will edit it
+👉 قم بارسال اي ملف في قناتك وساقوم باضافة حقوقك
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+<b><a href="https://t.me/AKM100YE">©️ مطور البوت</a></b>
 """    
               
 
      
       ABOUT_TEXT = """
 
-📕 --𝐀𝐛𝐨𝐮𝐭-- --𝐌𝐞--
+
+📕 --حول- --البوت--
 
 
-○ ᴍʏ ɴᴀᴍᴇ : [Auto Caption | Ts Bots](https://t.me/Anylink_Movies)
+○ اسم البوت  : [بوت حقوق القناه](https://t.me/AKM100YE)
 
-○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
+لغة البوت : بايثون  
 
-○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ 
+○ الحزمة  : ᴘʏʀᴏɢʀᴀᴍ 
 
-○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ 
+○ السرفر : ʜᴇʀᴏᴋᴜ 
 
-○ ᴠᴇʀsɪᴏɴ : 1.1.0
+○ النسخة  : 1.1.0
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ  : [ᴛᴏᴜᴄʜ ᴍᴇ 🤗](https://github.com/Ts-bots/AutoCaption-Ts_Bot-Clone)
+○ قناة البوت   : [قناة البوت  🤗](https://t.me/zawamlAnsarAllah)
 
-○ ᴄʀᴇᴀᴛᴏʀ :  [ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ](https://t.me/trackstudio)
- 
-__ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀɴᴅ ᴛʜɪs ɪs ᴍʏ ғɪʀsᴛ ᴛɪᴍᴇ ɪ ᴀᴍ ɢɪᴠɪɴɢ ᴀɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ ʙᴏᴛ ғᴏʀ ᴇᴠᴇʀʏᴏɴᴇ ᴡʜɪᴄʜ ᴡᴀs ᴡʀɪᴛᴇʀ ɪɴ ᴍʏ ᴏᴡɴ ʜᴀɴᴅs, sᴏ ɪғ ᴀɴʏ ʙᴜɢs ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ sᴀʏ
-ɪᴛ ᴍᴀʏ ʙᴇ ɴᴏᴛ ᴛʜᴇ ʙᴇsᴛ ʙᴜᴛ ғᴏʀ ᴍᴇ ɪᴛ ɪs ᴛʜᴇ ʙᴇsᴛ 🥰
+○ مطور البوت  :  [هناااااا](https://t.me/AKM100YE)
 
-ᴛʜᴀɴᴋs ᴛᴏ ᴍʏ ʙᴇʟᴏᴠᴇᴅ ғʀɪᴇɴᴅ [ᴀɴᴏɴʏᴍᴏᴜs](https://t.me/Anoymous_Ns)__
-
-**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/ts_bots)**
+**[©️  شكرا لاستخدامكم البوت](https://t.me/AKM100YE)**
 
 """
 
@@ -104,10 +100,10 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀ
 
       NOT_ADMIN_TEXT = """
 
-🔰 <u>𝐒𝐎𝐑𝐑𝐘</u>
+🔰 <u>المعذرة ياسيدي</u>
 
-Only my admin can see my status, if you want this bot you can take my source code and deploy it. 
+المعذره عزيزي فقط مطور البوت يستطيع مشاهدة احصائيات البوت  
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+<b><a href="https://t.me/AKM100YE">©️ مطور البووووت</a></b>
 
 """
